@@ -1,0 +1,110 @@
+{
+  "1": {
+    "GPU usage": {
+      "min": 15,
+      "max": 55
+    },
+    "Memory usage": {
+      "min": 2700,
+      "max": 2780
+    },
+    "CPU usage": {
+      "min": 1,
+      "max": 5.75
+    },
+    "Framerate": {
+      "min": 59.7,
+      "max": 60.2
+    }
+  },
+  "2": {
+    "GPU usage": {
+      "min": 10,
+      "max": 60
+    },
+    "Memory usage": {
+      "min": 2745,
+      "max": 2871
+    },
+    "CPU usage": {
+      "min": 1,
+      "max": 6.7
+    },
+    "Framerate": {
+      "min": 59.7,
+      "max": 60.2
+    }
+  }, 
+  "3": {
+    "GPU usage": {
+      "min": 13,
+      "max": 53
+    },
+    "Memory usage": {
+      "min": 2740,
+      "max": 2805
+    },
+    "CPU usage": {
+      "min": 1,
+      "max": 6.5
+    },
+    "Framerate": {
+      "min": 59.8,
+      "max": 60.1
+    }
+  }, 
+  "4": {
+    "GPU usage": {
+      "min": 7,
+      "max": 62
+    },
+    "Memory usage": {
+      "min": 2550,
+      "max": 2600
+    },
+    "CPU usage": {
+      "min": 1,
+      "max": 6.5
+    },
+    "Framerate": {
+      "min": 59.8,
+      "max": 60.1
+    }
+  }, 
+  "5": {
+    "GPU usage": {
+      "min": 3,
+      "max": 61
+    },
+    "Memory usage": {
+      "min": 2450,
+      "max": 2600
+    },
+    "CPU usage": {
+      "min": 1.1,
+      "max": 7.1
+    },
+    "Framerate": {
+      "min": 59.7,
+      "max": 60.2
+    }
+  }, 
+  "6": {
+    "GPU usage": {
+      "min": 3,
+      "max": 64
+    },
+    "Memory usage": {
+      "min": 2480,
+      "max": 2600
+    },
+    "CPU usage": {
+      "min": 0,
+      "max": 7.7
+    },
+    "Framerate": {
+      "min": 59.7,
+      "max": 60.15
+    }
+  }
+}
